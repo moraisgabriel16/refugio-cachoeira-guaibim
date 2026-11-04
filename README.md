@@ -2,7 +2,7 @@
 
 Site de hospedagem por temporada na Praia de Guaibim, em Valença, Bahia.
 
-HTML, CSS e JavaScript, sem etapa de build. Inclui galeria com 16 fotos reais, comodidades e consulta de datas pelo WhatsApp, além de links para Booking e Airbnb.
+HTML, CSS e JavaScript, sem etapa de build. Inclui galeria com 24 fotos reais, comodidades e consulta de datas pelo WhatsApp, além de links para Booking e Airbnb.
 
 ## Prévia local
 

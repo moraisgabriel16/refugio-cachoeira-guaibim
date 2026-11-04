@@ -21,3 +21,9 @@ Página estática em `dist/`. Prévia: `python -m http.server 8769 --directory d
 ## Direção visual
 
 Fotografia real, composição de página de hospedagem, uma família tipográfica, informações objetivas e formulário lateral.
+
+## Atualização de 4 de novembro de 2026
+
+- Novas fotografias enviadas diretamente pelo usuário nos arquivos WhatsApp Unknown 2026-11-04 at 07.41.05.zip e WhatsApp Unknown 2026-11-04 at 07.41.08.zip.
+- 16 imagens selecionadas e convertidas para WebP, sem alterações de conteúdo; a galeria mantém 8 fotografias externas do anúncio e totaliza 24 imagens.
+- A nova assinatura para o hero é uma evolução da marca fornecida pelo usuário, com lettering claro e fundo transparente.
