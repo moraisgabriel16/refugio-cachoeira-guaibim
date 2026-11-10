@@ -1,16 +1,10 @@
-# Assinatura do Refúgio Cachoeira Guaibim
+# Logo do Refúgio Cachoeira Guaibim
 
-Arte final vetorial para a aplicação no hero, com fundo transparente, lettering em curvas e símbolo de onda. Não depende de fontes instaladas no dispositivo do visitante.
+A aplicação atual preserva a identidade fotográfica e a tipografia da imagem enviada pelo usuário. A versão final é quadrada, com a foto de mar, espuma e areia preenchendo toda a área, sem o azul sólido dos cantos e sem máscara circular.
 
-- `dist/assets/refugio-logo-hero.svg`: versão marfim para fundos escuros.
-- `dist/assets/refugio-logo-dark.svg`: versão verde-petróleo para fundos claros.
+- `branding/reference-logo.png`: referência original fornecida pelo usuário.
+- `dist/assets/refugio-logo-quadrada.png`: arte final usada no hero, no cabeçalho, no rodapé e no contato.
 
-A geração de imagens nativa foi usada na exploração visual. A arte final foi redesenhada em SVG para eliminar ruído e garantir contornos limpos; os rascunhos raster não são usados no site. O nome e a referência original foram fornecidos pelo usuário.
+Foi utilizada a ferramenta nativa de edição de imagens para restaurar a nitidez e estender a fotografia aos cantos. As letras pretas, a composição e a assinatura cursiva foram preservadas conforme a referência. Não foram usadas fontes aproximadas nesta versão.
 
-Prompt da exploração: criar uma assinatura costeira sóbria para a marca Refúgio Cachoeira, com um pequeno símbolo de onda e as linhas exatas REFÚGIO / CACHOEIRA / GUAIBIM. Lettering em marfim, fundo transparente, legibilidade em desktop e celular; sem disco, fotografia, sombras ou slogans.
-
-As fotos enviadas pelo usuário foram selecionadas e convertidas para WebP para publicação. Nenhum ambiente foi gerado ou alterado por IA.
-
-## Tipografia atualizada — 10 de novembro de 2026
-
-A pedido do usuário, a assinatura segue a referência original: REFÚGIO e CACHOEIRA em uma fonte geométrica sem serifa (Century Gothic), com A sem travessa, e Guaibim em cursiva (Freestyle Script). São aproximações visuais da referência, não uma identificação confirmada das fontes originais. Todos os caracteres foram convertidos em curvas no SVG. O símbolo de onda e as cores existentes foram preservados.
+O arquivo `PROMPTS.md` registra as instruções de edição utilizadas.
