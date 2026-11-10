@@ -10,3 +10,7 @@ A geração de imagens nativa foi usada na exploração visual. A arte final foi
 Prompt da exploração: criar uma assinatura costeira sóbria para a marca Refúgio Cachoeira, com um pequeno símbolo de onda e as linhas exatas REFÚGIO / CACHOEIRA / GUAIBIM. Lettering em marfim, fundo transparente, legibilidade em desktop e celular; sem disco, fotografia, sombras ou slogans.
 
 As fotos enviadas pelo usuário foram selecionadas e convertidas para WebP para publicação. Nenhum ambiente foi gerado ou alterado por IA.
+
+## Tipografia atualizada — 10 de novembro de 2026
+
+A pedido do usuário, a assinatura segue a referência original: REFÚGIO e CACHOEIRA em uma fonte geométrica sem serifa (Century Gothic), com A sem travessa, e Guaibim em cursiva (Freestyle Script). São aproximações visuais da referência, não uma identificação confirmada das fontes originais. Todos os caracteres foram convertidos em curvas no SVG. O símbolo de onda e as cores existentes foram preservados.
